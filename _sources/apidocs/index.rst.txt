@@ -1,0 +1,12 @@
+.. _qiskit-qec:
+
+.. module:: qiskit_qec
+
+=============================
+Template API References
+=============================
+
+.. toctree::
+   :maxdepth: 1
+
+   template
