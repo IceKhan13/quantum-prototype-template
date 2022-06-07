@@ -1,6 +1,6 @@
-.. _qiskit-qec:
+.. prototype_template:
 
-.. module:: qiskit_qec
+.. module:: prototype_template
 
 =============================
 Template API References
